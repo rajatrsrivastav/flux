@@ -53,3 +53,4 @@ iOS requires an Apple Developer account. See `eas.json` and `docs/REVIEW.md`.
 
 - `USER_GUIDE.md` — one-page guide to print for the owner
 - `docs/REVIEW.md` — technical debt and reliability priorities
+- `docs/AI_CHAT_HISTORY.md` — principal-engineer AI chat / build history (Prompts 0–9); root `AI_CHAT_HISTORY.md` points here for portal submission
